@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-custom-reply",
   "description": "可自定义指令并做出相应回复的插件，自用",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -21,6 +21,6 @@
     "plugin"
   ],
   "peerDependencies": {
-    "koishi": "4.18.0"
+    "koishi": ">=4.18.0"
   }
 }
